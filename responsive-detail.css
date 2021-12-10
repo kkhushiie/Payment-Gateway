@@ -1,0 +1,30 @@
+body {
+    box-shadow: 0 8px 32px 0 rgb(31 38 135 / 37%);
+    border-radius: 77px;
+    border: 1px solid rgba( 254, 254, 254, 0.18 );
+    width: 75%;
+    position: absolute;
+    margin-top: 680px;
+    margin-left: 135px;
+    align-items: center;
+    background-image: url("https://3dandroidwallpaper.com/wp-content/uploads/2019/09/Wallpaper-Android-Gradient.jpg");
+    
+}
+html, body {
+    text-align: center;
+    background-size: 1800px;
+    background-repeat: no-repeat;
+}
+#paypal-button-container {
+    border: 1px solid transparent;
+    border-radius: 0 3px 3px 0;
+    position: relative;
+    width: 75%;
+    box-sizing: border-box;
+    border: none;
+    vertical-align: top;
+    cursor: pointer;
+    overflow: hidden;
+    margin-left: 95px;
+    margin-top: 1px;
+}
